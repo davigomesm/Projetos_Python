@@ -11,6 +11,9 @@ pyautogui.PAUSE = 2
 pyautogui.press("win")
 pyautogui.write("opera")
 pyautogui.press("enter")
+
+time.sleep(2)
+
 pyperclip.copy("https://drive.google.com/drive/u/1/my-drive")
 pyautogui.hotkey("ctrl", "v")
 pyautogui.press("enter")
