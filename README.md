@@ -1,2 +1,2 @@
 # Projetos_Python
- projetos em python
+ projetos utilizando python
